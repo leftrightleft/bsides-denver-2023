@@ -1,3 +1,6 @@
+![image](https://github.com/leftrightleft/bsides-denver-2023/assets/4910518/e5703e3e-9700-4ab2-982d-57310d5a2c5d)
+
+
 # BSides Denver 2023 - Multi Repo Variant Analysis with CodeQL
 👋 Hey - I hope the talk on MRVA was helpful.  I have a couple helpful links to get you started below.
 
