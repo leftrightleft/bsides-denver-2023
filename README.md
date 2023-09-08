@@ -4,7 +4,6 @@
 # BSides Denver 2023 - Multi Repo Variant Analysis with CodeQL
 👋 Hey - I hope the talk on MRVA was helpful.  I have a couple helpful links to get you started below.
 
-Slides are HERE.
 
 ### Helpful links:
 * [Configure VSCode for CodeQL](https://codeql.github.com/docs/codeql-for-visual-studio-code/setting-up-codeql-in-visual-studio-code/)
