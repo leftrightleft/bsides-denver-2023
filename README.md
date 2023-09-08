@@ -10,3 +10,5 @@ Slides are HERE.
 * [CodeQL Query Repo](https://github.com/github/codeql)
 * [Security Lab](https://securitylab.github.com/)
 * [Coordinated disclosure of security vulnerabilities in GitHub](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/about-coordinated-disclosure-of-security-vulnerabilities)
+* [CodeQL Bounty Program](http://securitylab.github.com/bounties)
+* Learn CodeQL with our [Capture the Flag exercises](http://securitylab.github.com/ctf)
